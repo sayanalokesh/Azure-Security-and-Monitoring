@@ -45,7 +45,8 @@ docker build -t frontend .
 
 frontend container 
 
-![image](https://github.com/AdarshIITDH/Azure-Security-and-Monitoring/assets/60352729/0b39e4ed-8e8e-4fee-92a4-a8114c4526a8)
+![Screenshot 2024-03-22 161044](https://github.com/sayanalokesh/Azure-Security-and-Monitoring/assets/105637305/0569b8a3-2979-4e5e-9320-c948006bb966)
+
 
 ### Azure Dashboard
 
