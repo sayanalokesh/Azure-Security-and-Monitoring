@@ -1,7 +1,5 @@
 # Azure-Security-and-Monitoring
 
-# Azure-Security-and-Monitoring
-
 ### Containerize the application 
 
 ### Backend
