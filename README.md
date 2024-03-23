@@ -1,7 +1,14 @@
 # Azure-Security-and-Monitoring
 
-## Table of Contents
-1. [Containerize the application](containerize-the-application)
+**Table of Contents**
+- [Containerize the Application](#containerize-the-application)
+  - [Backend](#backend)
+    - [Backend Container](#backend-container)
+  - [Frontend](#frontend)
+    - [Frontend Container](#frontend-container)
+  - [Azure Dashboard](#azure-dashboard)
+  - [Backend Dashboard](#backend-dashboard)
+  - [Full Dashboard](#full-dashboard)
 
 ### Containerize the application 
 
